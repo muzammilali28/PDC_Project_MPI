@@ -9,6 +9,7 @@
  * Second Command ---> mpirun -np 4 ./project.exe
  *      
  *                      where "-np" flag is for number of processes to use.
+ *                      you can remove it and run it as well.
 */
 
 // Initialize the Program Start main()
